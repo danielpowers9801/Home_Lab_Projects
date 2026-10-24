@@ -1,2 +1,1 @@
-# Home_Lab_Projects
-This repo is where I add my evidence and documentation of labs created and completed in my free time
+A collection of hands-on cybersecurity home labs, documenting deployments, configurations, investigation workflows, and testing results as I continue developing my technical skills.
