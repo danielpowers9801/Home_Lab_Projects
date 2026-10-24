@@ -1,1 +1,7 @@
+### Virtual Machine Configuration
+
+Configured an Ubuntu Server virtual machine in Oracle
+VirtualBox to host the Wazuh security monitoring platform.
+The screenshots document the VM's allocated resources
+and virtual storage configuration.
 
